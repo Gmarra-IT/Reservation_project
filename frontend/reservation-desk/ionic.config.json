@@ -1,0 +1,7 @@
+{
+  "name": "ReservationDesk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
